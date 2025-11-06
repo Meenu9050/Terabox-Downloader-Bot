@@ -1,0 +1,6 @@
+pyrogram==2.0.37
+tgcrypto
+aiohttp
+python-dotenv
+pillow
+tqdm
